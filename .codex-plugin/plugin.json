@@ -1,0 +1,10 @@
+{
+  "name": "seedream",
+  "version": "0.2.1",
+  "description": "RunAPI Seedream skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/seedream/SKILL.md"
+    }
+  ]
+}
