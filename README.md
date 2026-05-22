@@ -1,6 +1,23 @@
-# Seedream API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/seedream">
+    <h3 align="center">Seedream API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Seedream fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/seedream.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/seedream"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/seedream-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/seedream)](https://skills.sh/runapi-ai/seedream)
+
+</div>
+<br/>
 
 Generate and edit images with Seedream 4.5 and 5-lite text-to-image, image-to-image, and image editing. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Seedream through RunAPI.
 
