@@ -1,5 +1,7 @@
 # Seedream API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/seedream)](https://skills.sh/runapi-ai/seedream)
+
 Generate and edit images with Seedream 4.5 and 5-lite text-to-image, image-to-image, and image editing. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Seedream through RunAPI.
 
 The canonical agent file is `skills/seedream/SKILL.md`.
