@@ -36,6 +36,7 @@ Generate and edit images with Seedream through RunAPI. The default path for one-
 When integrating Seedream into an app, backend, worker, library, Rails service, Node service, Go service, webhook pipeline, or production workflow, start by checking the current SDK package and official usage. Confirm install commands, client methods (`create`, `get`, `run`), request fields, response shape, and error classes before using CLI help or raw HTTP examples. Use a RunAPI SDK package:
 
 - JavaScript / TypeScript: `@runapi.ai/seedream`
+- PHP: `runapi-ai/seedream`
 - Ruby: `runapi-seedream`
 - Go: `github.com/runapi-ai/seedream-sdk/go`
 
@@ -105,5 +106,7 @@ RunAPI-generated file URLs are temporary. Download and store generated images, v
 - [4.5 edit](https://runapi.ai/models/seedream/4.5-edit.md)
 - [5 lite text to image](https://runapi.ai/models/seedream/5-lite-text-to-image.md)
 - [5 lite edit](https://runapi.ai/models/seedream/5-lite-edit.md)
+- [5 pro text to image](https://runapi.ai/models/seedream/5-pro-text-to-image.md)
+- [5 pro edit](https://runapi.ai/models/seedream/5-pro-edit.md)
 - [v4 text to image](https://runapi.ai/models/seedream/v4-text-to-image.md)
 - [v4 edit](https://runapi.ai/models/seedream/v4-edit.md)

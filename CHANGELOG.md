@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.9](https://github.com/runapi-ai/seedream/releases/tag/v0.2.9) - 2026-07-20
+
+### Added
+- Add Seedream 5 Pro text-to-image and edit-image variant links to the agent skill.
+
+
 ## [v0.2.8](https://github.com/runapi-ai/seedream/releases/tag/v0.2.8) - 2026-06-18
 
 ### Changed
