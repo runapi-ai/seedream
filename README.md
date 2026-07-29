@@ -63,8 +63,8 @@ const url = result.images[0].url;
 ## Routing
 
 - Model page: https://runapi.ai/models/seedream
-- Product docs: https://runapi.ai/docs#seedream
-- SDK docs: https://runapi.ai/docs#sdk-seedream
+- Product docs: https://runapi.ai/docs/api/seedream/text-to-image
+- SDK docs: https://runapi.ai/docs/resources/sdks
 - SDK repository: https://github.com/runapi-ai/seedream-sdk
 - Pricing and rate limits: https://runapi.ai/models/seedream/4.5-text-to-image
 - Browse all RunAPI models and skills: https://runapi.ai/models
