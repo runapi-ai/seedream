@@ -1,5 +1,11 @@
 # Changelog
 
+## [v0.2.10](https://github.com/runapi-ai/seedream/releases/tag/v0.2.10) - 2026-08-10
+
+### Changed
+- Complete marketplace distribution for the RunAPI Seedream skill.
+
+
 ## [v0.2.9](https://github.com/runapi-ai/seedream/releases/tag/v0.2.9) - 2026-07-20
 
 ### Added
