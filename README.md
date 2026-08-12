@@ -21,7 +21,7 @@
 </div>
 <br/>
 
-Generate and edit images with Seedream v4, 4.5, 5 Lite, and 5 Pro text-to-image and image editing. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Seedream through RunAPI.
+Generate, edit, and separate images into independent layers with Seedream v4, 4.5, 5 Lite, and 5 Pro. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Seedream through RunAPI.
 
 The canonical agent file is `skills/seedream/SKILL.md`.
 
@@ -77,6 +77,7 @@ const url = result.images[0].url;
 - [5 lite edit](https://runapi.ai/models/seedream/5-lite-edit)
 - [5 pro text to image](https://runapi.ai/models/seedream/5-pro-text-to-image)
 - [5 pro edit](https://runapi.ai/models/seedream/5-pro-edit)
+- [5 pro layer decomposition](https://runapi.ai/models/seedream/5-pro-layer-decomposition)
 - [v4 text to image](https://runapi.ai/models/seedream/v4-text-to-image)
 - [v4 edit](https://runapi.ai/models/seedream/v4-edit)
 
